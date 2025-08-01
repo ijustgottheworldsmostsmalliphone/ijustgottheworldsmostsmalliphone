@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ijustgottheworldsmostsmalliphone
-- 👀 I’m interested in linux
-- 🌱 I’m currently learning phython and linux programming language
+- 👀 I’m interested in  linux
+- 🌱 I’m currently python and lfs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : limbobthebuilderman@gmail.com
-- 😄 Pronouns: new to linux
-- ⚡ Fun fact: i'm still under 18
+- 😄 Pronouns: ay / he / him
+- ⚡ Fun fact: i don't know how to install arch manually :3 
 
 <!---
 ijustgottheworldsmostsmalliphone/ijustgottheworldsmostsmalliphone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
